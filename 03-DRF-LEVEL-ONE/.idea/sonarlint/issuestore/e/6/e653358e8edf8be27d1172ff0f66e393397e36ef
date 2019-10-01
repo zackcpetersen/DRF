@@ -1,0 +1,15 @@
+
+hpython:S107Ù"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(Üœşüÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÎÉªÄúÿÿÿÿ
+cpython:S107ó"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(¸êì
+rpython:S3776°"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ê‡Ô¸ùÿÿÿÿ
+mpython:S3776ß	"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(û½½¼
+Hpython:S1066ß"/Merge this if statement with the enclosing one.(À‰î
+apython:S101("JRename class "empty" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ºİµº
+mpython:S3776¡
+"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(û½½¼
+mpython:S3776£	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(û½½¼
+Hpython:S1066Ò"/Merge this if statement with the enclosing one.(ãåßñ
+Hpython:S1066»"/Merge this if statement with the enclosing one.(À‰î
+epython:S1764«"LCorrect one of the identical sub-expressions on both sides of operator "!=".(¤Ê—â
+dpython:S107µ"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(î¤Ê

@@ -1,0 +1,10 @@
+
+cpython:S107…"LMethod "__init__" has 23 parameters, which is greater than the 7 authorized.(ÆÁj
+hpython:S107ƒ"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(âºêÙøÿÿÿÿ
+rpython:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(€‹ã’ÿÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñÕı›
+mpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(•Áä
+rpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ï®ÆŒúÿÿÿÿ
+mpython:S1012"QRename class "NOT_PROVIDED" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(üÖ˜ÿşÿÿÿÿ
+Mpython:S1066ç"/Merge this if statement with the enclosing one.(ÉÕ¹—şÿÿÿÿ
+qpython:S1542T"TRename function "return_None" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö²‚ƒúÿÿÿÿ
