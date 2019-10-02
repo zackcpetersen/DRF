@@ -1,0 +1,16 @@
+
+rpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Š¢êËúÿÿÿÿ
+mpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(õå†§
+rpython:S3776¹	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô“ß€üÿÿÿÿ
+npython:S100à"QRename method "setUpClass" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°¡­«úÿÿÿÿ
+qpython:S100ê"TRename method "tearDownClass" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´¥›Àûÿÿÿÿ
+xpython:S117@"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(üôÄ–ÿÿÿÿÿ
+xpython:S117ƒ"[Rename this local variable "testMethod" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¤ª’ûÿÿÿÿ
+spython:S117„"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿Ä²
+ypython:S117’"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚èÉ¦ÿÿÿÿÿ
+tpython:S117Í"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùüÉñ
+tpython:S117á"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùüÉñ
+tpython:S1542¹	"VRename function "_deferredSkip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô“ß€üÿÿÿÿ
+vpython:S1542ç	"XRename function "skipIfDBFeature" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ÃÙôþÿÿÿÿ
+zpython:S1542ð	"\Rename function "skipUnlessDBFeature" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒÏà¯úÿÿÿÿ
+}python:S1542ù	"_Rename function "skipUnlessAnyDBFeature" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅÜáªúÿÿÿÿ

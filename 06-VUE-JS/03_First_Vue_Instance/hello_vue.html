@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Vue</title>
+</head>
+<body>
+    <div id="app">
+        <h1>{{ message }}</h1>
+        <h2>{{ value }}</h2>
+        <h2>{{ value * 5 }}</h2>
+        <h2>{{ "hello" + " vue!" }}</h2>
+        <h2>{{ Math.random() }}</h2>
+        <h2>{{ message.split('').reverse().join('') }}</h2>
+        <img v-bind:src="imgSrc" alt="">
+
+        <a v-bind:href="link">Offical Website</a>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
